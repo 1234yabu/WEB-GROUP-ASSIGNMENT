@@ -1,5 +1,5 @@
 # WEB-GROUP-ASSIGNMENT
-TITLE  
+TITLE     coffee organization
 
 GROUP MEMBERS AND      ID
 
