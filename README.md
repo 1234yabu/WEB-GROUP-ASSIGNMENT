@@ -9,6 +9,6 @@ GROUP MEMBERS and     ID
 
 3.Samuel Zebene          UGR/2139/13
 
-Yonas Sisay              UGR/3279/13
+4.Yonas Sisay              UGR/3279/13
 
-Liyat Tesfaye            UGR/6140/13
+5.Liyat Tesfaye            UGR/6140/13
