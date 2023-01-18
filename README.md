@@ -1,7 +1,7 @@
 # WEB-GROUP-ASSIGNMENT
 TITLE  
 
-GROUP MEMBERS                      ID
+GROUP MEMBERS                                   ID
 
 1.Yabsira Yetwale                  UGR/8664/13
 
