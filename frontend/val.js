@@ -46,6 +46,17 @@ alert ("successful");
 form.classList.add("was-validated");
 });
 
+addToCart(elem) {
+    document.getElementsByClassName("elem")[0].getElementsByClassName.property="block";
+}
+
+document.getElementById("yirgachefe").addEventListener("click", addToCart(cyirga));
+document.getElementById("harar").addEventListener("click", addToCart(charar));
+document.getElementById("limu").addEventListener("click", addToCart(climu));
+document.getElementById("sidamo").addEventListener("click", addToCart(csidamo));
+document.getElementById("jinka").addEventListener("click", addToCart(cjinka));
+document.getElementById("guji").addEventListener("click", addToCart(cguji));
+
 
 
 
