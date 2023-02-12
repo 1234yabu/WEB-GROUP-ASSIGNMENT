@@ -1,0 +1,1 @@
+We chose a documentbased database technology and our reason is that it is easily scalable, the structure is flexible and it is quicker to handle and make queries.
