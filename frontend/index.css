@@ -211,8 +211,10 @@ html::-webkit-scrollbar-thumb{
     background: var(--main-color);
     color: #fff;
     font-size: 15px;
+}
 
-
+.cart-item {
+    display: none;
 }
 
 form {
